@@ -18,3 +18,9 @@ This is a Telegram bot. This bot randomly picks a quote from the database and se
 - **Delete Quote** (DELETE) => **url**- "/admin/quotes/:quoteId", **Role**- "admin", Only Admin can **Delete Existing Data / Quotes** into the DataBase. And This Route also need take JWT Token as an Bearer Authentication.
 
 #### Telegram Commands-
+- **/start** => This Command Start the Bot and Return Some Messages.
+- **/help** => This Command Show All Existing Commands List with their Short Description.
+- **/info** => This Command give a Short Description What is the Bot does.
+- **/EnergyBooster** => Everytime You send this Command, Bot return a Random Quote from the DataBase and Store Telegram User information with Which Quote Telegram User got into DataBase.
+
+#### For More Information Please Visit the Code and The Image of the Random Quote Generator.png ####
