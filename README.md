@@ -1,6 +1,6 @@
 # Random_Quote_Generator
 
-#### Voting App Workflow
+#### Random_Quote_Generator Workflow
 
 This is a Telegram bot. This bot randomly picks a quote from the database and sends it to the user.
 
