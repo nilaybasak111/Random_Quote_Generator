@@ -1,6 +1,6 @@
 # Random Quote Generator Telegram Bot
 
-#### Random Quote Generator Workflow 007
+#### Random Quote Generator Workflow
 
 This is a Telegram bot. This bot randomly picks a quote from the database and sends it to the user.
 
